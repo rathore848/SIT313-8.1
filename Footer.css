@@ -1,0 +1,14 @@
+.foot{
+    background-color: black;
+    padding: 10px 10px 0px 10px;
+    width: 100%;
+    bottom: 0;
+    height: 60px;
+    position: fixed;
+    padding-bottom: 2.5rem;
+}
+.col{
+    color: white;
+    list-style-type: none;
+}
+
